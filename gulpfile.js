@@ -1,7 +1,7 @@
 /**
  * @author  ugrasenan vellaichamy
  * @url		  www.vellaichamy.com/resume
- * @date    March 2017
+ * @date    August 2017
  * @license MIT
  *
  * AngularJS Boilerplate: Build, watch and other useful tasks
